@@ -1,18 +1,35 @@
+# 🎓 Student Management System
 
-# 🐍 Python OOP Projects
+## 📌 Description
 
-This repository contains Object-Oriented Programming (OOP) projects created while learning Python.
+A simple Python OOP project to store and display student information.
 
-## 📂 Projects
+## ✨ Features
 
-- 🎓 Student Management System
+- Add student details
+- Display student details
+- Introduce the student
 
-More projects will be added soon.
+## 🛠️ Concepts Used
 
-## 📚 Concepts Covered
-
-- Classes
-- Objects
-- Constructors
+- Class
+- Object
+- Constructor (`__init__`)
+- self
 - Methods
-- OOP Basics
+
+## ▶️ Output
+
+```text
+Name : Vansh
+Age : 20
+Course : BCA
+
+Hi, I am Vansh and I am studying BCA.
+```
+
+## 🚀 How to Run
+
+```bash
+python main.py
+```
