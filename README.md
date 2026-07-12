@@ -1,26 +1,20 @@
-# 🎓 Student Management System
+# 🐍 Python OOP Projects
 
-## 📌 Description
-A simple Python Object-Oriented Programming (OOP) project to manage student information.
+This repository contains Python Object-Oriented Programming projects created while learning Python.
 
-## 🚀 Features
-- Store student details
-- Display student information
-- Introduce the student
+## Projects
 
-## 🛠️ Concepts Used
-- Class
-- Object
-- Constructor (`__init__`)
-- `self`
+- 🎓 Student Management System ✅
+- 🏦 Bank Management System (Coming Soon)
+- 📚 Library Management System (Coming Soon)
+- 🏧 ATM System (Coming Soon)
+
+## Skills
+
+- Classes
+- Objects
+- Constructors
 - Methods
-
-## ▶️ How to Run
-
-```bash
-python main.py
-```
-
-## 👨‍💻 Author
-
-Vansh
+- Encapsulation
+- Inheritance
+- Polymorphism
