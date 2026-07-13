@@ -5,7 +5,7 @@ This repository contains Python Object-Oriented Programming projects created whi
 ## Projects
 
 - 🎓 Student Management System ✅
-- 🏦 Bank Management System (Coming Soon)
+- 🏦 Bank Management System ✅
 - 📚 Library Management System (Coming Soon)
 - 🏧 ATM System (Coming Soon)
 
