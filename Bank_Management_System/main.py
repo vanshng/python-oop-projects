@@ -21,6 +21,6 @@ class BankAccount:
 account = BankAccount("Vansh", 1000)
 
 account.display_balance()
-account.deposit(200)
+account.deposit(2000)
 account.withdraw(600)
 
