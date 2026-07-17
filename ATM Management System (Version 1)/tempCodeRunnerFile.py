@@ -1,1 +1,0 @@
-atm.check_balance()
